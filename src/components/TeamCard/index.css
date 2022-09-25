@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-item {
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid #ffffff;
+  margin: 30px;
+  background-color: #475569;
+  border-radius: 15px;
+  width: 300px;
+}
+
+.list-img {
+  height: 80px;
+  width: 90px;
+}
+
+.list-head {
+  font-family: 'Bree Serif';
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  margin-left: 15px;
+}
